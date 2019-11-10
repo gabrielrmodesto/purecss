@@ -6,4 +6,4 @@
 
 * Second Project
 
-> [Responsive Sidebar]()
+> [Responsive Sidebar](https://github.com/gabrielrmodesto/purecss/tree/master/responsive_sidebar)
