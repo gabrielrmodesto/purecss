@@ -1,0 +1,22 @@
+*,*::before, *::after{
+    box-sizing: border-box;
+}
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    display: table;
+    margin: 0;
+}
+.container{
+    height: 50%;
+    width: 25%;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
